@@ -1,0 +1,4 @@
+mismatches/
+__pycache__/
+*.o
+t
