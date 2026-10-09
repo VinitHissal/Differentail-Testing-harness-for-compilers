@@ -1,4 +1,4 @@
-# compiler-difftest
+# Compiler-difftest
 
 A small differential-testing tool for C compilers. It generates random
 UB-free C programs, compiles each with GCC 16 and Apple clang at -O0/-O2/-O3,
